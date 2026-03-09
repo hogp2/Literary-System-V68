@@ -1,7 +1,13 @@
 LITERARY_SYSTEM_V68: THE MASTER DIRECTOR
 ​المبتكر: حبيب علي محسن (Habib Ali Mohsin)
+
+
+
 ​[AR] البيان القانوني:
 هذا النظام من ابتكار حبيب علي محسن. يُنشر كـ "معرفة سابقة موثقة" (Prior Art) لضمان بقائه متاحاً للجمهور. يمنع منعاً باتاً لأي شركة أو جهة تجارية تسجيل هذا المنطق البرمجي كبراءة اختراع حصرية أو احتكاره.
+
+
+
 ​[EN] Legal Statement:
 Innovated by Habib Ali Mohsin. Published as Prior Art. Commercial entities are strictly prohibited from filing an exclusive patent for this logic.
 ​كود النظام (System Logic):
